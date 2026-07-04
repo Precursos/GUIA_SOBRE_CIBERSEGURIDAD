@@ -24,11 +24,11 @@ Este modelo forma la base de estándares y marcos como ISO/IEC 27001 y el NIST C
 ### Tipos de amenazas
 Dentro de cualquier temario básico en ciberseguridad nos podemos encontrar con las siguietes amenazas:
 
-- *Malvare:* Software malicioso (virus, gusanos, troyanos, ransomware, spyware).
-- *Phishing:* Engaño mediante correos, mensajes, o sitios falsos para robar credenciales o infomación.
-- *Ransomware:* Cifra los datos de la víctima y pide un rescate para liberarlos.
-- *Ingeniería social:* Manipulación psicológica para que la víctima revele información o realice acciones inseguras (pretexting, baiting, tailgating, etc).
-- 
+- **Malvare:** Software malicioso (virus, gusanos, troyanos, ransomware, spyware).
+- **Phishing:** Engaño mediante correos, mensajes, o sitios falsos para robar credenciales o infomación.
+- **Ransomware:** Cifra los datos de la víctima y pide un rescate para liberarlos.
+- **Ingeniería social:** Manipulación psicológica para que la víctima revele información o realice acciones inseguras (pretexting, baiting, tailgating, etc).
+  
 
 ### Vectores de ataque
 
