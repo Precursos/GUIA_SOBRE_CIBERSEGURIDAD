@@ -1,8 +1,8 @@
 # Fundamentos de Ciberseguridad
 
 ## Subtemas
-- [ ] Qué es la ciberseguridad (CIA: confidencialidad, integridad, disponibilidad)
-- [ ] Tipos de amenazas (malware, phishing, ransomware, ingeniería social)
+- [x] Qué es la ciberseguridad (CIA: confidencialidad, integridad, disponibilidad)
+- [x] Tipos de amenazas (malware, phishing, ransomware, ingeniería social)
 - [ ] Vectores de ataque comunes
 - [ ] Conceptos de riesgo, vulnerabilidad y exploit
 - [ ] Marcos de referencia: NIST, ISO 27001 (básico)
