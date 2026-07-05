@@ -30,12 +30,14 @@ Para fines de entendimiento común intento explicar la mayoría de los conceptos
 2. [Redes](./redes/)
 3. [Criptografía](./criptografia/)
 4. [Sistemas Operativos](./sistemas-operativos/)
-5. [Seguridad Web](./web-security/)
-6. [Seguridad Ofensiva (Pentesting)](./seguridad-ofensiva/)
-7. [Seguridad Defensiva](./seguridad-defensiva/)
-8. [Malware](./malware/)
-9. [Gobernanza, Riesgo y Cumplimiento](./governance-riesgo-cumplimiento/)
-10. [Recursos y Certificaciones](./recursos/)
+5. [Programación](./Programación/)
+6. [Linux](./Linux/)
+7. [Seguridad Web](./web-security/)
+8. [Seguridad Ofensiva (Pentesting)](./seguridad-ofensiva/)
+9. [Seguridad Defensiva](./seguridad-defensiva/)
+10. [Malware](./malware/)
+11. [Gobernanza, Riesgo y Cumplimiento](./governance-riesgo-cumplimiento/)
+12. [Recursos y Certificaciones](./recursos/)
 
 ## 📝 Estado de avance
 
@@ -43,6 +45,8 @@ Para fines de entendimiento común intento explicar la mayoría de los conceptos
 - [ ] Redes
 - [ ] Criptografía
 - [ ] Sistemas Operativos
+- [ ] Programación
+- [ ] Linux
 - [ ] Seguridad Web
 - [ ] Seguridad Ofensiva
 - [ ] Seguridad Defensiva
