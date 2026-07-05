@@ -3,9 +3,9 @@
 ## Subtemas
 - [x] Qué es la ciberseguridad (CIA: confidencialidad, integridad, disponibilidad)
 - [x] Tipos de amenazas (malware, phishing, ransomware, ingeniería social)
-- [ ] Vectores de ataque comunes
-- [ ] Conceptos de riesgo, vulnerabilidad y exploit
-- [ ] Marcos de referencia: NIST, ISO 27001 (básico)
+- [x] Vectores de ataque comunes
+- [x] Conceptos de riesgo, vulnerabilidad y exploit
+- [x] Marcos de referencia: NIST, ISO 27001 (básico)
 
 ---
 
@@ -31,18 +31,33 @@ Dentro de cualquier temario básico en ciberseguridad nos podemos encontrar con 
   
 
 ### Vectores de ataque
-
-*(Escribe aquí tus notas)*
+Un vector de ataque es el camino o método que usa un atacante para acceder a un sistema, los más tipicos:
+- Correos electónicoos (Phishing)
+- Contraseñas débiles o filtradas
+- Software sin actualizar (vulnerabilidades no parchadas)
+- Dispositivos USB o hardwae comprometido
+- Redes Wi-Fi inseguras
+- Empleados con acceso mal gestionado (insider threats)
 
 ### Riesgo, vulnerabilidad y exploit
-
-*(Escribe aquí tus notas)*
+Estos tres términos se tienden a comfundir mucho, pero tienen diferencias claras:
+- **Vulnerabilidad:** Una debilidad en un sistema, software o proceso que podría ser aprovechada.
+- **Exploit:** El método o código específico que aprovecha una vulnerabilidad paa causar un efecto no deseado.
+- **Riesgo:** La probabilidad de que una amenaza aproveche una vulnerabilidad, combinada con el impacto que eso tendría.
 
 ### Marcos de referencia
-
+Los marcos de diferencia (frameworks) dan una estructura rdenada para gestionar la seguridad de una organización:
+- **NIST Cybersecurity Framework (CSF):** Organizando en funciones básicas: Identificar, Proteger, Detectar, Responder, y Recuperar (y ahoa también "Gobernar" en la versión 2,0). El draft de NIST CSF 2.0 define "Gobernar" como establecer y monitorear la estrategia de gestión de riesgos de ciberseguridad de la oganización, sus expectativas y su política.
+- **ISO/IEC 27001:** Estándar internacioonal para sistemas de gestión de seguridad de la información (SGSI), centrado en gestión de riesgos.
 
 ### Fuentes de información
 - NIST SP 800-12 Rev. 1 — An Introduction to Information Security: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-28.pdf
 - NIST National Cybersecurity Center of Excellence (NCCoE): https://www.nccoe.nist.gov
 - CISA (Cybersecurity and Infrastructure Security Agency, EEUU): https://www.cisa.gov/topics/cyber-threats-and-advisories
 - ENISA (Agencia de la UE para la Ciberseguridad) — Threat Landscape: https://www.enisa.europa.eu/publications
+- MITRE ATT&CK (catálogo de tácticas y técnicas de ataque reales, usado en toda la industria): https://attack.mitre.org
+- CISA Known Exploited Vulnerabilities Catalog: https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+- NIST Glossary (definiciones oficiales de términos de ciberseguridad): https://csrc.nist.gov/glossary
+- CVE (Common Vulnerabilities and Exposures) — catálogo público de vulnerabilidades conocidas: https://www.cve.org
+- NIST Cybersecurity Framework (oficial): https://www.nist.gov/cyberframework
+- ISO/IEC 27001 (información oficial): https://www.iso.org/standard/27001
