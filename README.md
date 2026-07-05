@@ -55,4 +55,4 @@ Para fines de entendimiento común intento explicar la mayoría de los conceptos
 - [ ] Recursos
 
 ---
-*Última actualización: -*
+*Última actualización: 05-Julio-2026*
