@@ -32,7 +32,7 @@ Documentar mi proceso de aprendizaje en ciberseguridad, con notas propias, resú
 
 ## 📝 Estado de avance
 
-- [ ] Fundamentos
+- [x] Fundamentos
 - [ ] Redes
 - [ ] Criptografía
 - [ ] Sistemas Operativos
