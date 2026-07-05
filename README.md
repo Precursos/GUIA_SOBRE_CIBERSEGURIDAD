@@ -20,7 +20,7 @@ Este repositorio contiene notas de estudio personales sobre ciberseguridad, crea
 </p>
 
 Esto es un intento para documentar mi proceso de aprendizaje en ciberseguridad, con notas propias, resúmenes y enlaces útiles para repasar cuando sea necesario.
-Esty intentando que me queden un poco más claro la mayoría de estos conceptos que considero son muy importante para mi carrera. 
+Estoy intentando que me queden un poco más claro la mayoría de estos conceptos que considero son muy importante para mi carrera. 
 
 Para fines de entendimiento común intento explicar la mayoría de los conceptos con mis propias palabras manteniendo un lenguaje simple con la finalidad de que sea un poco más divertido y cualquier persona lo pueda entender si es que se encuentra interesada en el tema. 
 
