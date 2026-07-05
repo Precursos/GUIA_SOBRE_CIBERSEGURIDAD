@@ -13,6 +13,15 @@ Este repositorio contiene notas de estudio personales sobre ciberseguridad, crea
 - Si practico con herramientas como TryHackMe o HackTheBox, es en entornos 
   legales y autorizados diseñados específicamente para el aprendizaje.
 
+## 🎯 Introducción
+
+Esto es un intento para documentar mi proceso de aprendizaje en ciberseguridad, con notas propias, resúmenes y enlaces útiles para repasar cuando sea necesario.
+Esty intentando que me queden un poco más claro la mayoría de estos conceptos que considero son muy importante para mi carrera. 
+
+Para fines de entendimiento común intento explicar la mayoría de los conceptos con mis propias palabras manteniendo un lenguaje simple con la finalidad de que sea un poco más divertido y cualquier persona lo pueda entender si es que se encuentra interesada en el tema. 
+
+<img src="https://i.pinimg.com/736x/f5/8a/6d/f58a6d6f972ede3d73f672d6bc1b4c66.jpg" alt="Modelo OSI" width="400">
+
 ## 📂 Temario
 
 1. [Fundamentos](./fundamentos/)
@@ -25,10 +34,6 @@ Este repositorio contiene notas de estudio personales sobre ciberseguridad, crea
 8. [Malware](./malware/)
 9. [Gobernanza, Riesgo y Cumplimiento](./governance-riesgo-cumplimiento/)
 10. [Recursos y Certificaciones](./recursos/)
-
-## 🎯 Objetivo
-
-Documentar mi proceso de aprendizaje en ciberseguridad, con notas propias, resúmenes y enlaces útiles para repasar cuando lo necesite.
 
 ## 📝 Estado de avance
 
