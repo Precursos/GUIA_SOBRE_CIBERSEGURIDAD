@@ -9,7 +9,13 @@
 
 ---
 
-Si estás en esta sección es porque de plano 
+<p align="center">
+  <img src="https://pbs.twimg.com/media/GzweBTNbUAAn0N_?format=jpg&name=large" alt="Modelo OSI" width="500">
+  <em>Artista: @new_3011_ozipon en twitter</em>
+</p>
+
+
+Si estás aquí puede ser por varias razones, deseas repasar lo básico, 
 
 ### Qué es la ciberseguridad
 Si con el nombre no queda claro, se le conoce como ciberseguridad a la práctica de proteger sistemas, redes, dispositivos y datos contra accesos no autorizados, ataques o daños. 
