@@ -9,7 +9,7 @@
 
 ---
 
-## Notas
+Si estás en esta sección es porque de plano 
 
 ### Qué es la ciberseguridad
 Si con el nombre no queda claro, se le conoce como ciberseguridad a la práctica de proteger sistemas, redes, dispositivos y datos contra accesos no autorizados, ataques o daños. 
@@ -22,6 +22,8 @@ Se podría decir que uno de los modelos más importante donde se sostiene es el 
 
 Este modelo forma la base de estándares y marcos como ISO/IEC 27001 y el NIST Cybersecurity Framework.
 
+---
+
 ### Tipos de amenazas
 Dentro de cualquier temario básico en ciberseguridad nos podemos encontrar con las siguietes amenazas:
 
@@ -29,7 +31,8 @@ Dentro de cualquier temario básico en ciberseguridad nos podemos encontrar con 
 - **Phishing:** Engaño mediante correos, mensajes, o sitios falsos para robar credenciales o infomación.
 - **Ransomware:** Cifra los datos de la víctima y pide un rescate para liberarlos.
 - **Ingeniería social:** Manipulación psicológica para que la víctima revele información o realice acciones inseguras (pretexting, baiting, tailgating, etc).
-  
+
+---
 
 ### Vectores de ataque
 Un vector de ataque es el camino o método que usa un atacante para acceder a un sistema, los más tipicos:
@@ -40,16 +43,22 @@ Un vector de ataque es el camino o método que usa un atacante para acceder a un
 - Redes Wi-Fi inseguras
 - Empleados con acceso mal gestionado (insider threats)
 
+---
+
 ### Riesgo, vulnerabilidad y exploit
 Estos tres términos se tienden a comfundir mucho, pero tienen diferencias claras:
 - **Vulnerabilidad:** Una debilidad en un sistema, software o proceso que podría ser aprovechada.
 - **Exploit:** El método o código específico que aprovecha una vulnerabilidad paa causar un efecto no deseado.
 - **Riesgo:** La probabilidad de que una amenaza aproveche una vulnerabilidad, combinada con el impacto que eso tendría.
 
+---
+
 ### Marcos de referencia
 Los marcos de diferencia (frameworks) dan una estructura rdenada para gestionar la seguridad de una organización:
 - **NIST Cybersecurity Framework (CSF):** Organizando en funciones básicas: Identificar, Proteger, Detectar, Responder, y Recuperar (y ahoa también "Gobernar" en la versión 2,0). El draft de NIST CSF 2.0 define "Gobernar" como establecer y monitorear la estrategia de gestión de riesgos de ciberseguridad de la oganización, sus expectativas y su política.
 - **ISO/IEC 27001:** Estándar internacioonal para sistemas de gestión de seguridad de la información (SGSI), centrado en gestión de riesgos.
+
+---
 
 ### Fuentes de información
 - NIST SP 800-12 Rev. 1 — An Introduction to Information Security: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-28.pdf
