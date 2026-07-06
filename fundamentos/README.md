@@ -12,12 +12,13 @@
 ## Notas
 
 ### Qué es la ciberseguridad
+Si con el nombre no queda claro, se le conoce como ciberseguridad a la práctica de proteger sistemas, redes, dispositivos y datos contra accesos no autorizados, ataques o daños. 
 
-Se le conoce como ciberseguridad a la práctica de proteger sistemas, redes, dispositivos y datos conta accesos no autorizados, ataques o daños. Se sostiene sobre el modelo conocido como triada CIA:
+Se podría decir que uno de los modelos más importante donde se sostiene es el llamado como "Triada CIA" el cual consta de tres puntos clave:
 
-- Confidencialidad: Que la información solo sea accesible para quienes están autorizados a verla.
-- Integridad: Que los datos se matengan exactos y no sean alteados sin autoización. Esto implica poteger contra modificación o destrucción indebida de información y garantizar el no repudio y la autenticidad.
-- Disponibilidad: Garantizar el acceso opotuno y confiable a la información cuando se necesita.
+- **Confidencialidad:** Que la información solo sea accesible para quienes están autorizados a verla.
+- **Integridad:** Que los datos se matengan exactos y no sean alteados sin autoización. Esto implica poteger contra modificación o destrucción indebida de información y garantizar el no repudio y la autenticidad.
+- **Disponibilidad:** Garantizar el acceso opotuno y confiable a la información cuando se necesita.
 
 Este modelo forma la base de estándares y marcos como ISO/IEC 27001 y el NIST Cybersecurity Framework.
 
