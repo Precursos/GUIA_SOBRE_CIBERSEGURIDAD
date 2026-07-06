@@ -16,7 +16,8 @@
   <em>Artista: @new_3011_ozipon en twitter</em>
 </p>
 
-Si estás aquí puede ser por varias razones, deseas repasar lo básico, 
+
+Si estás aquí puede ser por dos razones o deseas repasar lo básico, o de plano no sabes nada sobre seguridad informatica. Sea cual sea el caso no pasa nada, te llevare sujetado de la mano en este campo de rosas y espinas.
 
 ### Qué es la ciberseguridad
 Si con el nombre no queda claro, se le conoce como ciberseguridad a la práctica de proteger sistemas, redes, dispositivos y datos contra accesos no autorizados, ataques o daños. 
