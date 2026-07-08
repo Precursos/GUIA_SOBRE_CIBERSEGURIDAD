@@ -1,6 +1,8 @@
 # Redes
 
 ## Subtemas
+- [ ] Redes informáticas
+- [ ] Tipo de redes
 - [ ] Modelo OSI y TCP/IP
 - [ ] Protocolos comunes (HTTP/HTTPS, DNS, FTP, SSH)
 - [ ] Firewalls y su funcionamiento
@@ -11,6 +13,11 @@
 ---
 
 ## Notas
+
+### Redes informátcas
+En términos sencillos las redes son conjuntos de sistemas informáticos conectados y comunicados entre sí, esto con el fin de que puedan compartir información en forma de paquetes de datos.
+
+### Tipo de redes
 
 ### Modelo OSI y TCP/IP
 
