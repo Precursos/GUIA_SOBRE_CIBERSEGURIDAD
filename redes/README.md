@@ -15,7 +15,7 @@
 ## Notas
 
 ### Redes informátcas
-En términos sencillos las redes son conjuntos de sistemas informáticos conectados y comunicados entre sí, esto con el fin de que puedan compartir información en forma de paquetes de datos.
+En términos sencillos, las redes son conjuntos de sistemas informáticos conectados y comunicados entre sí, esto con el fin de que puedan compartir información en forma de paquetes de datos.
 
 ---
 
