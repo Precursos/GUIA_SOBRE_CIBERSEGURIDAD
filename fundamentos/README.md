@@ -13,7 +13,7 @@
   <img src="https://pbs.twimg.com/media/GzweBTNbUAAn0N_?format=jpg&name=large" alt="Modelo OSI" width="500">
 </p>
 <p align="center">
-  <em>Artista: @new_3011_ozipon en twitter/X</em>
+  <em>Artista: @new_3011_ozipon en Twitter/X</em>
 </p>
 
 
