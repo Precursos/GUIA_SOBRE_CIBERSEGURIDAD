@@ -15,7 +15,15 @@
 
 ---
 
-## Notas
+<p align="center">
+  <img src="https://pbs.twimg.com/media/GtB-SQWWAAAXMpR?format=jpg&name=medium" alt="Modelo OSI" width="500">
+</p>
+<p align="center">
+  <em>Artista: @vickie21579n en twitter/X</em>
+</p>
+
+
+---
 
 ### Redes informátcas
 En términos sencillos, las redes son conjuntos de sistemas informáticos conectados y comunicados entre sí, esto con el fin de que puedan compartir información en forma de paquetes de datos.
