@@ -19,7 +19,7 @@
   <img src="https://pbs.twimg.com/media/GtB-SQWWAAAXMpR?format=jpg&name=medium" alt="Modelo OSI" width="500">
 </p>
 <p align="center">
-  <em>Artista: @vickie21579n en twitter/X</em>
+  <em>Artista: @vickie21579n en Twitter/X</em>
 </p>
 
 
