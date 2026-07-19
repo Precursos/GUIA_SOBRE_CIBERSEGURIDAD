@@ -27,16 +27,18 @@
 
 ### Redes informátcas
 En términos sencillos, las redes son conjuntos de sistemas informáticos conectados y comunicados entre sí, esto con el fin de que puedan compartir información en forma de paquetes de datos.
+Como en cualquier proceso de comunicación, las redes cuentan con un emisor, un receto y un mensaje; así como un medio físico a través del cual se transmite y una serie de códigos protocolos para garantizar su legibilidad.
 
-Como en cualquier poceso de comunicación, las redes cuentan con un emisor, un receto y un mensaje; así como un medio físico a través del cual se transmite y una serie de códigos protocolos para garantizar su legibilidad.
-
-¿Cómo funcionan las redes informáticas?
+### ¿Cómo funcionan las redes informáticas?
 La forma en la que podemos decir que funcionan las redes se basa en la transmisión de paquetes de datos de una computadra a otra.
 
 1. Solicitud de datos
 2. Empaquetamiento y transmisión
 3. Encantamiento
 4. Recepción y embalaje
+
+Entonces para nosotros ¿Qué es una red?
+Pues para dejar una definición más clara es el conjunto de dispositivos (nodos) conectados entre sí para compartir recursos e información. Puede ser tan pequeña como dos computadoras o tan grande como internet.
 
 
 
