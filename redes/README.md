@@ -69,7 +69,14 @@ Medio físico empleado para envíar y recibir datos como el cablead o ondas elec
 
 ### Modelo OSI y TCP/IP
 
-*(Escribe aquí tus notas)*
+**Modelo OSI:**
+7. Aplicación
+6. Presentación
+5. Sesión
+4. Transporte
+3. Red
+2. Enlace
+1. Física 
 
 ---
 
